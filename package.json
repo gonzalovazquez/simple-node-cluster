@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-cluster",
+  "version": "1.0.0",
+  "description": "A simple node cluster example",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "node",
+    "cluster"
+  ],
+  "author": "Gonzalo Vazquez",
+  "license": "ISC"
+}
